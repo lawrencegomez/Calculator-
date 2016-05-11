@@ -21,7 +21,7 @@ var calc = {
 function clear() {
   calc.calculation = []
   calc.screens.value = ''
-  calc.screens.placeholder = 'hello'
+  calc.screens.placeholder = '01134'
 }
 
 // This initializes the click events for all of the buttons on the screen.
@@ -79,7 +79,7 @@ function init() {
     })
   }
 
-init(); 
+init();
 // Initialize the code so the buttons and code are all ready to go once the screen loads
 
 
